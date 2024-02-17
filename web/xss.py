@@ -1,4 +1,3 @@
-#!/bin/bash
 import requests, json, os, re
 from bs4 import BeautifulSoup
 from optparse import OptionParser
