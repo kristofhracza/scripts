@@ -1,6 +1,6 @@
 # Web scripts
 
-## XSS
+## xss.py
 `xss.py` will fuzz a specified input in a specified form with a list of payloads defined by the user.       
 It also supports cookies, so one can use it on a website where login in needed.
 
